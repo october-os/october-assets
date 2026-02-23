@@ -1,1 +1,1 @@
-# october-assets
+# Official assets for October Linux
